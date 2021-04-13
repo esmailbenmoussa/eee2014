@@ -1,6 +1,5 @@
 # eee2014
 ![Screenshot 2021-04-13 at 16 53 38](https://user-images.githubusercontent.com/6424790/114573636-d3e5e680-9c78-11eb-8a01-acf317de76a4.png)
-source: https://appadvice.com/app/eee2014/812400397
 
 Release date: February 8, 2014
 
