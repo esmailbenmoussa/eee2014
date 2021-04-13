@@ -1,5 +1,6 @@
 # eee2014
 ![Screenshot 2021-04-13 at 16 53 38](https://user-images.githubusercontent.com/6424790/114573636-d3e5e680-9c78-11eb-8a01-acf317de76a4.png)
+source: https://appadvice.com/app/eee2014/812400397
 
 # What is it about?
 The eee-days is the largest career fair for business administration and economics students in the Nordic region, and we dare to say it is the best one as well! Whether you are looking for some networking with interesting companies, listening to exciting speakers or sitting down with your dream employer for a one on one conversation, eee is the place for you.
